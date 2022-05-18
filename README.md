@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UniquelyYous
+- 👋 Hi, I’m @UniquelyUndefined
 - 👀 I’m interested IT and BioSciences
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... suggestions?
